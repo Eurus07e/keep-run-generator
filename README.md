@@ -5,7 +5,14 @@
 **Keep 跑步结果页截图生成器**  
 一个纯前端、零依赖、可离线运行的 Canvas 工具。
 
+<br>
 
+<a href="https://eurus07e.github.io/keep-run-generator/" target="_blank">
+  <img src="https://img.shields.io/badge/Try Now!-00C853?style=for-the-badge&labelColor=00C853&color=00C853" alt="使用" width="110">
+</a>
+
+<br>
+<br>
 
 </div>
 
@@ -21,8 +28,6 @@
 
 动一动手指👋，完成你的课后跑！
 
-
 > 本项目纯属个人娱乐。请各位不要用于伪造运动记录、欺骗打卡、冒充官方页面或其他不当用途哦。
 
 ---
-
