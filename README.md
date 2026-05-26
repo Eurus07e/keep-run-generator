@@ -2,7 +2,7 @@
 
 # Keep Run Screenshot Generator
 
-**Keep 跑步结果页截图生成器**  
+**Keep 跑步截图生成器**  
 一个纯前端、零依赖、可离线运行的 Canvas 工具。
 
 <br>
@@ -20,9 +20,9 @@
 
 ## 项目简介
 
-南京大学体适能课后作业好烦。跑步好累。必须狠狠水掉。
+南京大学体适能课后作业好烦🥵。跑步好累😫。必须狠狠水掉😡。
 
-所以我们做了 **Keep Run Screenshot Generator** ，一个用于生成 Keep 风格跑步结果页截图的工具。
+所以我们做了 **Keep Run Screenshot Generator** ，一个用于生成 Keep 风格跑步结果页截图的工具👊🏻。
 
 你可以编辑跑步数据并实时生成截图。在宿舍，在教室，在食堂...打开 github，随时开跑！
 
