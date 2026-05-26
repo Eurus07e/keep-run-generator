@@ -27,7 +27,7 @@
 
 呢喃的体适能课后跑好烦🥵。跑步好累😫。必须狠狠水掉😡。
 
-所以我们做了 **Keep Run Screenshot Generator** ，一个用于生成 Keep 风格跑步结果页截图的工具👊🏻。
+所以我们做了 **Keep Run Screenshot Generator** ，一个用于生成 Keep 风格跑步截图的工具👊🏻。
 
 你可以编辑跑步数据并实时生成截图。在宿舍，在教室，在食堂...打开 github，随时开跑！
 
